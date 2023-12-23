@@ -9,7 +9,7 @@
 
 It depends on the needs of the project.
 
-I have been in contact with technologies such as:
+I have experience in technologies such as:
 - JS (Svelte, SvelteKit, Vue, TypeScript, Electron)
 - Python (image processing, data science)
 - Databases (PlanetScale, RxDb, Prisma ORM)
