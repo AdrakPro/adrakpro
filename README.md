@@ -3,6 +3,7 @@
 - :notebook_with_decorative_cover: [CustNote](https://github.com/AdrakPro/custnote/) - Customizable note-taking web application (SvelteKit, PlanetScale)
 - :white_check_mark: [Birthday reminder](https://github.com/AdrakPro/svelte-tdd/) - Basic app for learning TDD (90+ tests)
 - :school: [University tasks](https://github.com/AdrakPro/uni-tasks) - Collection of university tasks
+- :volleyball: [Hobby](https://github.com/AdrakPro/hobby) - Collection of intresting articles
 
 
 ## 🛠 Tech stack
