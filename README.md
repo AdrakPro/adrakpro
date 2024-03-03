@@ -21,7 +21,7 @@ At the moment I am in my second year at PWr studying Computer Automation Systems
 - :volleyball: [Hobby](https://github.com/AdrakPro/hobby) - Collection of interesting articles
 
 One projet per week challenge (mockup, tests, notes on my thinking process):
-- 📚 [Translator][https://github.com/AdrakPro/translator] - Desktop application to easily save/translate words (AI, Tauri, Svelte, Redis)
+- 📚 [Translator](https://github.com/AdrakPro/translator) - Desktop application to easily save/translate words (AI, Tauri, Svelte, Redis)
 
 ## 🛠 Technology Stack
 I am a quick learner. The technology stack depends on the needs of the project.
