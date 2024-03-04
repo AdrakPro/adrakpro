@@ -10,7 +10,7 @@ At the moment I am in my second year at PWr studying Computer Automation Systems
 </p>
 
 <p align='center'>
-   📫 How to reach me: <a href='mailto:adam.makarewicz@proton.me'>adam.makarewicz14@gmail.com</a>
+   📫 How to reach me: <a href='mailto:adam.makarewicz@proton.me'>adam.makarewicz@proton.me</a>
 </p>
 
 ## ❤ My opensource projects
