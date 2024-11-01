@@ -22,5 +22,5 @@ At the moment I am in my second year at PWr studying Computer Automation Systems
 
 ## 🎧 On-going projects
 
-- 🥽 [Hololens VR][https://github.com/Hololens-PWr-Projekt]
-- 🏥 [Hospital Manager][https://github.com/AdrakPro/hospital]
+- 🥽 [Hololens VR](https://github.com/Hololens-PWr-Projekt)
+- 🏥 [Hospital Manager](https://github.com/AdrakPro/hospital)
