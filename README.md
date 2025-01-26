@@ -13,14 +13,14 @@ At the moment I am in my second year at PWr studying Computer Automation Systems
    📫 How to reach me: <a href='mailto:adam.makarewicz@proton.me'>adam.makarewicz@proton.me</a>
 </p>
 
-## ❤ My opensource projects
+## 📌 Pinned projects
 
-- :notebook_with_decorative_cover: [CustNote](https://github.com/AdrakPro/custnote/) - Customizable note-taking web application (SvelteKit, PlanetScale)
-- :white_check_mark: [Birthday reminder](https://github.com/AdrakPro/svelte-tdd/) - Basic app for learning TDD (90+ tests)
 - 🏗️: [Data structures benchmark](https://github.com/AdrakPro/uni-tasks/tree/master/data_structures/gui) - Application for measuring time of basic operations on various data structures
+-  🥽 [Hololens AR](https://github.com/Hololens-PWr-Projekt/CONNECTION)
+- :notebook_with_decorative_cover: [CustNote](https://github.com/AdrakPro/custnote/) - Customizable note-taking web application (SvelteKit, PlanetScale)
+
+## 🎧 Rest projects
+
+- :white_check_mark: [Birthday reminder](https://github.com/AdrakPro/svelte-tdd/) - Basic app for learning TDD (90+ tests)
 - :school: [University tasks](https://github.com/AdrakPro/uni-tasks) - Collection of university tasks
-
-## 🎧 On-going projects
-
-- 🥽 [Hololens VR](https://github.com/Hololens-PWr-Projekt)
 - 🏥 [Hospital Manager](https://github.com/AdrakPro/hospital)
