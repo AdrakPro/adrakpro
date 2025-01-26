@@ -1,5 +1,5 @@
 # Hi, I'm Adam 👋
-At the moment I am in my second year at PWr studying Computer Automation Systems (ISA). Besides my studies, I am a volleyball player (AZS PWr) and serve on the board of the tourist club (SKT PWr).
+At the moment I am in my third year at PWr studying IT Automation Systems (ISA). Besides my studies, I am a volleyball player (AZS PWr) and serve on the board of the tourist club (SKT PWr).
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=adrakpro&show_icons=true&count_private=true"><img
