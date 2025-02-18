@@ -1,10 +1,6 @@
 # Hi, I'm Adam 👋
 At the moment I am in my third year at PWr studying IT Automation Systems (ISA). Besides my studies, I am a volleyball player (AZS PWr) and serve on the board of the tourist club (SKT PWr).
 
-<p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=adrakpro&show_icons=true&count_private=true"><img
-           height=150
-           src="https://github-readme-stats.vercel.app/api?username=adrakpro&show_icons=true&count_private=true"/></a>
    <a href="https://github.com/romankh3/github-readme-stats"><img height=150
                                                                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrakpro&layout=compact"/></a>
 </p>
