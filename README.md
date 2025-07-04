@@ -10,7 +10,7 @@ At the moment I am in my third year at PWr studying IT Automation Systems (ISA).
 </p>
 
 ## 📌 Pinned projects
-
+- 📝 [Linux Syscall Monitor](https://github.com/AdrakPro/linux-syscall-monitor-spring-2025) - Linux Syscall monitor that has logging control, execution blocking/unblocking, and real-time syscall activity monitoring
 -  🥽 [Hololens AR](https://github.com/Hololens-PWr-Projekt/CONNECTION) - Room Scanning and 3D Model Acquisition with HoloLens 2 (Connection system, C#)
 -  🏗️: [Data structures benchmark](https://github.com/AdrakPro/uni-tasks/tree/master/data_structures/gui) - Application for measuring time of basic operations on various data structures (C++)
 -  🫀 [Heart Disease Classificator](https://github.com/AdrakPro/heart-diseae-ml) - Binary and multi-class classification models using ADAM optimization, implemented from scratch without third-party libraries (Python).
