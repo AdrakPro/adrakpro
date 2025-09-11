@@ -10,12 +10,13 @@ At the moment I am in my third year at PWr studying IT Automation Systems (ISA).
 </p>
 
 ## 📌 Pinned projects
-- 📝 [Linux Syscall Monitor](https://github.com/AdrakPro/linux-syscall-monitor-spring-2025) - Linux Syscall monitor that has logging control, execution blocking/unblocking, and real-time syscall activity monitoring
+- 🥇 [HPO Tuner (Engineering Thesis)](https://github.com/AdrakPro/HPO_Tuner) - Sophisticated framework for optimizing the hyperparameters of a Convolutional Neural Network using a Genetic Algorithm (Python)
+- 📝 [Linux Syscall Monitor](https://github.com/AdrakPro/linux-syscall-monitor-spring-2025) - Linux Syscall monitor that has logging control, execution blocking/unblocking, and real-time syscall activity monitoring (C)
 -  🥽 [Hololens AR](https://github.com/Hololens-PWr-Projekt/CONNECTION) - Room Scanning and 3D Model Acquisition with HoloLens 2 (Connection system, C#)
 -  🏗️: [Data structures benchmark](https://github.com/AdrakPro/uni-tasks/tree/master/data_structures/gui) - Application for measuring time of basic operations on various data structures (C++)
--  🫀 [Heart Disease Classificator](https://github.com/AdrakPro/heart-diseae-ml) - Binary and multi-class classification models using ADAM optimization, implemented from scratch without third-party libraries (Python).
+-  🫀 [Heart Disease Classificator](https://github.com/AdrakPro/heart-diseae-ml) - Binary and multi-class classification models using ADAM optimization, implemented from scratch without third-party libraries (Python)
 - :notebook_with_decorative_cover: [CustNote](https://github.com/AdrakPro/custnote/) - Customizable note-taking web application (SvelteKit, PlanetScale)
-- 🖌️ [Image Processing](https://github.com/AdrakPro/uni-tasks/tree/master/image_processing) - Implemented image processing techniques like: aliasing2d, interpolations, noise reduction, rotating (Python).
+- 🖌️ [Image Processing](https://github.com/AdrakPro/uni-tasks/tree/master/image_processing) - Implemented image processing techniques like: aliasing2d, interpolations, noise reduction, rotating (Python)
 
 ## 🎧 Rest projects
 
