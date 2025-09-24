@@ -14,7 +14,7 @@ At the moment I am in my third year at PWr studying IT Automation Systems (ISA).
 - 📝 [Linux Syscall Monitor](https://github.com/AdrakPro/linux-syscall-monitor-spring-2025) - Linux Syscall monitor that has logging control, execution blocking/unblocking, and real-time syscall activity monitoring (C)
 -  🥽 [Hololens AR](https://github.com/Hololens-PWr-Projekt/CONNECTION) - Room Scanning and 3D Model Acquisition with HoloLens 2 (Connection system, C#)
 -  🏗️: [Data structures benchmark](https://github.com/AdrakPro/uni-tasks/tree/master/data_structures/gui) - Application for measuring time of basic operations on various data structures (C++)
--  
+  
 ## 🎧 Rest projects
 
 - :white_check_mark: [Birthday reminder](https://github.com/AdrakPro/svelte-tdd/) - Basic app for learning TDD (90+ tests)
