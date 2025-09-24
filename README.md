@@ -16,10 +16,9 @@ At the moment I am in my third year at PWr studying IT Automation Systems (ISA).
 -  🏗️: [Data structures benchmark](https://github.com/AdrakPro/uni-tasks/tree/master/data_structures/gui) - Application for measuring time of basic operations on various data structures (C++)
   
 ## 🎧 Rest projects
-
+- :notebook_with_decorative_cover: [CustNote](https://github.com/AdrakPro/custnote/) - Customizable note-taking web application (SvelteKit, JavaScript, PlanetScale)
 - :white_check_mark: [Birthday reminder](https://github.com/AdrakPro/svelte-tdd/) - Basic app for learning TDD (90+ tests)
 - 🏥 [Hospital Manager](https://github.com/AdrakPro/hospital) - PostgreSQL with Prisma ORM database
 - :school: [University tasks](https://github.com/AdrakPro/uni-tasks) - Collection of university tasks
 -  🫀 [Heart Disease Classificator](https://github.com/AdrakPro/heart-diseae-ml) - Binary and multi-class classification models using ADAM optimization, implemented from scratch without third-party libraries (Python)
-- :notebook_with_decorative_cover: [CustNote](https://github.com/AdrakPro/custnote/) - Customizable note-taking web application (SvelteKit, PlanetScale)
 - 🖌️ [Image Processing](https://github.com/AdrakPro/uni-tasks/tree/master/image_processing) - Implemented image processing techniques like: aliasing2d, interpolations, noise reduction, rotating (Python)
