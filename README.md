@@ -1,5 +1,5 @@
 # Hi, I'm Adam 👋
-At the moment I am in my fourth year at PWr studying IT Automation Systems (ISA). Besides my studies, I am a volleyball player (AZS PWr) and serve on the board of the tourist club (SKT PWr).
+At the moment, I am pursuing a Master’s degree in Computer Science at Politechnika Wrocławska.
 
    <a href="https://github.com/romankh3/github-readme-stats"><img height=150
                                                                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrakpro&layout=compact"/></a>
