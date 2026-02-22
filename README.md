@@ -1,8 +1,6 @@
 # Hi, I'm Adam 👋
 At the moment, I am pursuing a Master’s degree in Computer Science at Politechnika Wrocławska.
 
-   <a href="https://github.com/romankh3/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrakpro&layout=compact"/></a>
 </p>
 
 <p align='center'>
